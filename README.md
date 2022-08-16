@@ -1,5 +1,5 @@
 # Calculator
-Java Swing kütüphanesi kuulanarak yapmış olduğum hesap makinesi.
+Java kullanarak yapmış olduğum basit hesap makinesi.
 
 
 Hesaplaması için gereken sayıları kullanıcıdan girdi olarak alıyor.
